@@ -84,7 +84,7 @@ streamlit run app.py
 
 ## 📷 Screenshot
 
-![Uploading Screenshot 2026-07-20 005738.png…]()
+<img width="985" height="879" alt="Screenshot 2026-07-20 005738" src="https://github.com/user-attachments/assets/08d34697-b512-4eca-9a94-d3a78cb49ed8" />
 
 
 ---
