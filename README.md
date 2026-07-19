@@ -6,8 +6,7 @@ A Machine Learning web application that predicts individual medical insurance ch
 
 ## 🚀 Live Demo
 
-https://your-streamlit-app-url.streamlit.app
-
+https://medical-insurance-cost-prediction-linear-regression-lrbhejgwxd.streamlit.app/
 ---
 
 ## 📌 Features
@@ -85,7 +84,8 @@ streamlit run app.py
 
 ## 📷 Screenshot
 
-_Add a screenshot of the application here._
+![Uploading Screenshot 2026-07-20 005738.png…]()
+
 
 ---
 
